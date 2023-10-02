@@ -356,10 +356,3 @@ p {
   letter-spacing: 0.02em;
   max-width: 264px;
 }
-
-.header-link-a:hover,
-.header-link-a:focus,
-.header-link-a:active {
-  color: #404bbf;
-  text-decoration: underline;
-}
